@@ -78,7 +78,7 @@ jupyter notebook notebook/ETH_ARIMA_Forecast.ipynb
 ---
 
 ## 🎥 Video Demonstration
-👉 [YouTube Walkthrough Link](https://youtube.com/your_demo_link_here)
+👉 [YouTube Walkthrough Link](https://youtu.be/v8U4TcjAc8M)
 
 ---
 
