@@ -84,7 +84,5 @@ jupyter notebook notebook/ETH_ARIMA_Forecast.ipynb
 
 ## 📎 Author Info
 **Name:** Muhammad Abdullah  
-**Phone:** 0300-0000000  
-**InternID:** ABC123456
 
 ---
